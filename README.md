@@ -1,36 +1,15 @@
+### Hi there 👋,I'm leezhuuuuu.
 
-<div align="center">
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Python.
+- 📫 How to reach me: lz@leez.tech
 
-  # Hi there 👋
-    
-  <img src="https://profile-counter.glitch.me/{leezhuuuuu}/count.svg" />
-  
-  <p align="center"> From Chengdu (<a href="https://en.wikipedia.org/wiki/Chengdu">成都</a>), China.  </p>
-  <p align="center">Studying at UESTC </p>
-  <p align="center"> Coding 1 year. </p>
-  
-  <div align="center">
-  <details>
-  <summary>✨More (Github Stats, Contact)</summary>
-  
-  <div align="left">
-  <!--
-  <p align="center"> 
-  ⚒️Perfecting the world with: Python ⚒️
-  </p> -->
-  
-  ### 📊 GitHub Stats 
-  <div align="center">
-  <p > <img width="300em" src="https://github-readme-stats.vercel.app/api?username=leezhuuuuu&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
-  </p>
-  
-  </div>
+![](https://github-readme-stats.vercel.app/api?username=leezhuuuuu&show_icons=true&theme=transparent)
 
-  
+You are my ![Visitor Count](https://profile-counter.glitch.me/leezhuuuuu/count.svg) visitor,Thank You!
 
-  ### 📲 联系方式 CONTACT ME
+### My Skill Set
 
-  - Email: lz@leez.tech
-  </details>
-  </div>
-</div>
+[](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
