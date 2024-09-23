@@ -5,7 +5,7 @@
     
   <img src="https://profile-counter.glitch.me/{leezhuuuuu}/count.svg" />
   
-  <p align="center"> From Guangzhou (<a href="https://en.wikipedia.org/wiki/Chengdu">成都</a>), China.  </p>
+  <p align="center"> From Chengdu (<a href="https://en.wikipedia.org/wiki/Chengdu">成都</a>), China.  </p>
   <p align="center">Studying at UESTC </p>
   <p align="center"> Coding 1 year. </p>
   
