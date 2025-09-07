@@ -13,7 +13,7 @@ width="800"  height="3">
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to the future of technology. 
-- 📫 How to reach me: me@leez.tech | [Blog](https://blog.leezhu.cn) | [Status](https://status.leez.tech)
+- 📫 How to reach me: me@leezhu.cn | [Blog](https://blog.leezhu.cn) | [Status](https://status.leezhu.cn)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=leezhuuuuu&show_icons=true&theme=transparent)
